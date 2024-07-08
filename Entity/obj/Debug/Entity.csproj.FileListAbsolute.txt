@@ -1,0 +1,12 @@
+D:\Documents\Inmob.UI\Entity\bin\Debug\Entity.dll
+D:\Documents\Inmob.UI\Entity\bin\Debug\Entity.pdb
+D:\Documents\Inmob.UI\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\Documents\Inmob.UI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Documents\Inmob.UI\Entity\obj\Debug\Entity.dll
+D:\Documents\Inmob.UI\Entity\obj\Debug\Entity.pdb
+C:\Users\nicok\OneDrive\Desktop\Inmob.UI\Entity\bin\Debug\Entity.dll
+C:\Users\nicok\OneDrive\Desktop\Inmob.UI\Entity\bin\Debug\Entity.pdb
+C:\Users\nicok\OneDrive\Desktop\Inmob.UI\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\nicok\OneDrive\Desktop\Inmob.UI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\nicok\OneDrive\Desktop\Inmob.UI\Entity\obj\Debug\Entity.dll
+C:\Users\nicok\OneDrive\Desktop\Inmob.UI\Entity\obj\Debug\Entity.pdb
